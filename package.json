@@ -1,0 +1,21 @@
+{
+  "name": "chain-words-game",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rsbuild dev --open",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "@vkontakte/icons": "^2.118.0",
+    "@vkontakte/vk-bridge": "^2.14.2",
+    "@vkontakte/vkui": "^6.1.0",
+    "preact": "^10.22.0"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^0.7.2",
+    "@rsbuild/plugin-css-minimizer": "^0.7.2",
+    "@rsbuild/plugin-preact": "^0.7.2"
+  }
+}
