@@ -8,9 +8,11 @@
     "preview": "rsbuild preview"
   },
   "dependencies": {
+    "@apollo/client": "^3.10.4",
     "@vkontakte/icons": "^2.118.0",
     "@vkontakte/vk-bridge": "^2.14.2",
     "@vkontakte/vkui": "^6.1.0",
+    "graphql": "^16.8.1",
     "preact": "^10.22.0"
   },
   "devDependencies": {
